@@ -1,5 +1,9 @@
 #  Server-Side APIs: Weather Dashboard
 
+## Live URL
+
+https://aartimehar.github.io/Weather-dashboard/
+
 ## User Story
 
 ```text
@@ -43,9 +47,10 @@ A weather application can be used to check the current weather conditions, as we
 
 Thank you to thr whole team of bootcampspot for organising the front-end development and UI course. I as a learner appreciate the efforts of bootcamp spot for providing stunning learning materials to excel during this bootcamp.
 
-## Live URL
 
 ## Github URL
+
+https://github.com/aartimehar/Weather-dashboard
 
 ## License
 
