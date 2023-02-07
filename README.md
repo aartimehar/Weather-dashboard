@@ -25,13 +25,30 @@ SO THAT I can plan a trip accordingly
     * The temperature
     * The humidity
   * When a user click on a city in the search history they are again presented with current and future conditions for that city
+  
+## Installation
+None
 
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
+![screencapture-127-0-0-1-5501-weather-app-dashboard-index-html-2023-02-07-22_34_55](https://user-images.githubusercontent.com/113493756/217384059-cf439bd5-189f-415c-bb77-c62bc2684a92.png)
 
+## Usage 
 
+A weather application can be used to check the current weather conditions, as well as the forecast for future days, for a specified location. The application can provide information such as temperature, humidity, wind speed, chance of precipitation, and the overall weather conditions (sunny, cloudy, rainy, etc.). This information can be used to plan outdoor activities, prepare for potential weather-related events, or simply stay informed about current weather conditions.
 
+## Credits
+
+Thank you to thr whole team of bootcampspot for organising the front-end development and UI course. I as a learner appreciate the efforts of bootcamp spot for providing stunning learning materials to excel during this bootcamp.
+
+## Live URL
+
+## Github URL
+
+## License
+
+Please refer to the LICENSE in the repo.
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
